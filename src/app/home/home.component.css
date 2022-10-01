@@ -1,0 +1,21 @@
+#image {
+    width: 100%;
+    height: auto;
+}
+
+#title {
+    font-size: 5rem;
+    color: #ffffff;
+    margin: auto;
+    padding: auto;
+}
+
+.tweet {
+    /* text-decoration: none; */
+    color: #ffffff;
+}
+
+.tweet:hover {
+    color: #1DA1F2;
+    cursor: pointer;
+}
